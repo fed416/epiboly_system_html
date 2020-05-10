@@ -1,0 +1,37 @@
+{
+  "id": "1808420",
+  "name": "外包",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9498974",
+      "name": "角",
+      "font_class": "jiao",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9498980",
+      "name": "角",
+      "font_class": "jiao-copy",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "9498982",
+      "name": "角",
+      "font_class": "jiao-copy-copy",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "9498983",
+      "name": "角",
+      "font_class": "jiao-copy1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.layui-row.flex{padding:20px 0 20px 20px;display:flex;display:-webkit-flex;flex-wrap:wrap;justify-content:start;width:100%;height:auto}.main-layout.figurePortrait .images{width:150px;height:200px;position:relative;margin:0 40px 20px 0}.main-layout.figurePortrait .images img{position:absolute;width:100%;height:100%}.main-layout.figurePortrait .name{width:100%;position:absolute;bottom:0;height:40px;font-size:14px;text-align:center;background:#0070c0;color:#121212;line-height:40px}.tab_all{display:flex;justify-content:space-between;margin-top:200px}.tab_title{width:20%;height:50px;line-height:50px;font-size:16px;text-align:center;background:#0070c0;color:#fff;cursor:pointer;border:1px solid #000;border-left:0}.tab_title:first-child{border-left:1px solid #000}.tab_title.active,.tab_title:hover{background:#ffc000}olor: #fff;
+  cursor: pointer;
+  border: 1px solid #000;
+  border-left: 0;
+}
+.tab_title:first-child {
+  border-left: 1px solid #000;
+}
+.tab_title:hover {
+  background: #ffc000;
+}
+.tab_title.active {
+  background: #ffc000;
+}
