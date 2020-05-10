@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="jiao" unicode="&#58880;" d="M175.2 690.2v-673.7h-61.3v735H910.1v-61.2H175.2z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="jiao-copy" unicode="&#58881;" d="M205.8 47.20000001000005l673.7-1e-8 1e-8-61.3-735.00000002 0L144.49999999 782.1l61.20000001 0L205.7 47.200000000000045z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="jiao-copy-copy" unicode="&#58882;" d="M818.2 720.7999999900001l-673.7 1e-8-1e-8 61.3 735.00000002 0L879.50000001-14.100000000000023l-61.20000001 0L818.3 720.8z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="jiao-copy1" unicode="&#58883;" d="M848.79999999 77.79999999999995l1e-8 673.7 61.3 1e-8 0-735.00000002L113.9 16.499999989999992l0 61.20000001L848.8 77.70000000000005z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

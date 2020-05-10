@@ -1,0 +1,24 @@
+.data_three,.tab_all{display:flex;justify-content:space-between;overflow:hidden}.data_three{width:100%}.data_three .data_one{background:#fff;width:33.333%;height:auto;position:relative;padding:5px}.data_one .iconfont{position:absolute}.data_one .icon-jiao{left:0;top:0}.data_one .icon-jiao-copy-copy{right:0;top:0}.data_one .icon-jiao-copy{left:0;bottom:0}.data_one .icon-jiao-copy1{right:0;bottom:0}.data_one .one_top{margin-bottom:20px}.data_one .one_top.background{background:#1d4c7c;height:50%}.one_top.background .title{width:200px;border-bottom:4px solid #0070c0;float:left;margin-bottom:40px}.tab_all{margin-top:20px}.one_top.background .title,.tab_title{height:50px;line-height:50px;font-size:16px;text-align:center;color:#fff}.tab_title{width:25%;background:#0070c0;cursor:pointer;border:1px solid #000;border-left:0}.tab_title:first-child{border-left:1px solid #000}.tab_title.active,.tab_title:hover{background:#ffc000}.footer{width:375px;height:25px;line-height:25px;font-size:12px;background:#0070c0;color:#fff;text-align:center;margin:40px auto 30px}sor: pointer;
+  border: 1px solid #000;
+  border-left: 0;
+}
+.tab_title:first-child {
+  border-left: 1px solid #000;
+}
+.tab_title:hover {
+  background: #ffc000;
+}
+.tab_title.active {
+  background: #ffc000;
+}
+
+.footer {
+  width: 375px;
+  height: 25px;
+  line-height: 25px;
+  font-size: 12px;
+  background: #0070c0;
+  color: #fff;
+  text-align: center;
+  margin: 40px auto 30px auto;
+}
